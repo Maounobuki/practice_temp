@@ -3,3 +3,4 @@ if(condition) {
 } else {
   /// condition -> FALSE
 }
+для инициализации локального репозитория нужна комманда git init
